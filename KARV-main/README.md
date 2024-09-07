@@ -1,4 +1,1 @@
-this project is based on django framework 
-the basic functionallity of this application is to work on parametrical notification of stocks to user 
-it also includes paper trading funcyionallity and a js based chatbot
-NSEtools is used to get the live data ...but it might not be functional presently 
+This project is based on the Django framework. The core functionality of the application involves providing parametric stock notifications to users. It also includes a paper trading feature and a JavaScript-based chatbot. The NSEtools library is used to fetch live stock data, though it may not currently be fully functional.
